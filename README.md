@@ -10,6 +10,7 @@ No pude subir el proyecto de la forma correcta, ya que al haber echo el proyecto
 Hasta ahora tengo en el proyecto los tres modelos con un formulario cada uno para cargar datos (puedo cargar alumnos, profesores y cursos) me esta quedando pendiente la busqueda, y la herencia esta presente entre los archivos inicio.html y padre.html en donde inicio hereda de padre.
 
 Y al querer subirlo con git push -u origin master me dice lo siguiente:
+
   remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/cocominettii/EntregaFinal.git/'
