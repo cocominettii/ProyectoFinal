@@ -2,6 +2,8 @@
 proyecto final del curso de python- Coder House
 
 Integrantes: Bartolome Minetti
+
+
 lo hice solo 
 
 No pude subir el proyecto de la forma ideal, en cambio adjunte el zip en donde esta el proyecto entero, espero puedas abrirlo.
